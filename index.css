@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: #393e46;
+  font-family: "Dancing Script", cursive;
+  color: #52f828;
+  font-size: 60px;
+}
+button {
+  background-color: white;
+  color: black;
+  border: 1px solid red;
+  transition-duration: 0.4s;
+  font-size: large;
+  padding: 10px 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: red; /* Green */
+  color: white;
+}
+img {
+  padding: 50px 30px;
+}
